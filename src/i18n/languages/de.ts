@@ -1,0 +1,40 @@
+export const de = {
+  common: {
+    loading: "Laden...",
+    error: "Ein Fehler ist aufgetreten",
+    submit: "Absenden",
+    cancel: "Abbrechen",
+    save: "Speichern",
+    delete: "Löschen",
+    edit: "Bearbeiten",
+    back: "Zurück",
+  },
+  navigation: {
+    home: "Startseite",
+    directory: "Unternehmensverzeichnis",
+    register: "Unternehmen hinzufügen",
+    admin: "Administrator-Dashboard",
+  },
+  business: {
+    name: "Unternehmensname",
+    description: "Beschreibung",
+    category: "Kategorie",
+    contact: "Kontaktinformationen",
+    location: "Standort",
+    photos: "Fotos",
+    addBusiness: "Unternehmen hinzufügen",
+    editBusiness: "Unternehmen bearbeiten",
+  },
+  forms: {
+    required: "Dieses Feld ist erforderlich",
+    invalidEmail: "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+    invalidUrl: "Bitte geben Sie eine gültige URL ein",
+    invalidPhone: "Bitte geben Sie eine gültige Telefonnummer ein",
+  },
+  admin: {
+    login: "Admin-Login",
+    dashboard: "Dashboard",
+    settings: "Einstellungen",
+    logout: "Abmelden",
+  },
+};

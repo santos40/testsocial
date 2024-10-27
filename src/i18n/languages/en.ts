@@ -1,0 +1,40 @@
+export const en = {
+  common: {
+    loading: "Loading...",
+    error: "An error occurred",
+    submit: "Submit",
+    cancel: "Cancel",
+    save: "Save",
+    delete: "Delete",
+    edit: "Edit",
+    back: "Back",
+  },
+  navigation: {
+    home: "Home",
+    directory: "Business Directory",
+    register: "Add Business",
+    admin: "Admin Dashboard",
+  },
+  business: {
+    name: "Business Name",
+    description: "Description",
+    category: "Category",
+    contact: "Contact Information",
+    location: "Location",
+    photos: "Photos",
+    addBusiness: "Add Business",
+    editBusiness: "Edit Business",
+  },
+  forms: {
+    required: "This field is required",
+    invalidEmail: "Please enter a valid email",
+    invalidUrl: "Please enter a valid URL",
+    invalidPhone: "Please enter a valid phone number",
+  },
+  admin: {
+    login: "Admin Login",
+    dashboard: "Dashboard",
+    settings: "Settings",
+    logout: "Logout",
+  },
+};

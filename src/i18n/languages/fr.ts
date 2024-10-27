@@ -1,0 +1,40 @@
+export const fr = {
+  common: {
+    loading: "Chargement...",
+    error: "Une erreur s'est produite",
+    submit: "Soumettre",
+    cancel: "Annuler",
+    save: "Enregistrer",
+    delete: "Supprimer",
+    edit: "Modifier",
+    back: "Retour",
+  },
+  navigation: {
+    home: "Accueil",
+    directory: "Annuaire des Entreprises",
+    register: "Ajouter une Entreprise",
+    admin: "Tableau de Bord",
+  },
+  business: {
+    name: "Nom de l'Entreprise",
+    description: "Description",
+    category: "Catégorie",
+    contact: "Coordonnées",
+    location: "Emplacement",
+    photos: "Photos",
+    addBusiness: "Ajouter une Entreprise",
+    editBusiness: "Modifier l'Entreprise",
+  },
+  forms: {
+    required: "Ce champ est obligatoire",
+    invalidEmail: "Veuillez entrer un email valide",
+    invalidUrl: "Veuillez entrer une URL valide",
+    invalidPhone: "Veuillez entrer un numéro de téléphone valide",
+  },
+  admin: {
+    login: "Connexion Admin",
+    dashboard: "Tableau de Bord",
+    settings: "Paramètres",
+    logout: "Déconnexion",
+  },
+};
